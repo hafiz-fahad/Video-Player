@@ -1,0 +1,15 @@
+
+List galleryItems=['assets/one.png',
+  'assets/two.png',
+  'assets/three.png',
+  'assets/three.png',
+  'assets/four.png',
+  'assets/five.png',
+  'assets/six.png',
+  'assets/one.png',
+  'assets/two.png',
+  'assets/three.png',
+  'assets/three.png',
+  'assets/four.png',
+  'assets/five.png',
+  'assets/six.png',];
